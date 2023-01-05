@@ -100,3 +100,39 @@ text-align: center;
     font-size: 20px;
     color:#474747
 }
+/* what i do styles */
+.what-i-do{
+    margin-top: 130px;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background:#ffffff ;
+    box-shadow:0 6px 5px rgba(0,0,0,06);
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.skill-description{ 
+    color: #757575;
+}
+.summary{
+
+}
+.resume-title{
+    margin-top: 130px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
